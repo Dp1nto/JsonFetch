@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JsonFetch</string>
+    <string name="fetchButtonText">Fetch!</string>
 </resources>
